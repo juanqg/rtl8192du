@@ -14,7 +14,7 @@ Install Instructions:
     sudo dkms add .
     sudo dkms install 8192du/1.0
     Check installation with:
-    lsmod | grep 8192eu
+    lsmod | grep 8192du
     
     If driver is not listed, you may aswell:
     sudo modprobe 8192du
